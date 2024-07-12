@@ -83,7 +83,7 @@ devDependencies:
     specifier: ^1.2.10
     version: 1.2.10
   autoprefixer:
-    specifier: ^10.0.1
+    specifier: ^10.4.19
     version: 10.4.19(postcss@8.4.39)
   eslint:
     specifier: ^8
